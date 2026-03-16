@@ -6,13 +6,17 @@
 Project Structure
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Folder Structure
+
+```text
 Project_Folder/
-├── Parser_Output.txt           (The output text file generated)
-├── Text_Parser_Phase_1.ipynb   (The code file for the text parser)
-├── Porter_Stemmer.py           (Porter Stemmer code from the given Porter Stemmer document)
-├── stopwordlist.txt            (The given stopword list)
-├── ft911.zip                   (Zip folder containing ft911 documents)
-└── README.md                   (This file)
+├── Parser_Output.txt           # The output text file generated
+├── Text_Parser_Phase_1.ipynb  # The code file for the text parser
+├── Porter_Stemmer.py           # Porter Stemmer code
+├── stopwordlist.txt            # The given stopword list
+├── ft911.zip                   # Zip folder containing ft911 documents
+└── README.md                   # This file
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Requirements
